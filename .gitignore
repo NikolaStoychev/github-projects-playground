@@ -15,3 +15,9 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+#Added modification to existing
+.lib
+.local-lib
+.local-recources
+.recources
